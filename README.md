@@ -6,7 +6,7 @@ Exercise 2 consists of 3 problems. For each problem you need to modify the noteb
 
 ## Completing the exercise
 
-- **Exercise 2 is due by the start of the next lesson (9:15 am, 16 September 2024)**.
+- **Exercise 2 is due by the start of the next lesson (9:15 am, 15 September 2025)**.
 - **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**!
 - **We are [working in pairs](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the driver in your pair for this week's exercise.
 - **Please don't change the file name**. Do all of your editing in the provided `Exercise-2.ipynb` file. 
@@ -32,5 +32,3 @@ Remember also to answer all written questions in the exercise in addition to the
  - [Problem 1 - Making changes to code and using Git (3 points)](Exercise-2.ipynb)
  - [Problem 2 - Monthly average temperatures (5 points)](Exercise-2.ipynb)
  - [Problem 3 - Markdown practice (2 points)](Exercise-2.ipynb)
-# Test
-testing changes and using terminal 
